@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Yukarıdaki cümleyi hangi ünlü söylemiştir?",
+    "questionDescription": "Müzik ruhun gıdasıdır.",
+    "answer": [{"A": "Ludwig van Beethoven"}, {"B": "Wolfgang Amadeus Mozart"}, {"C": "Johann Sebastian Bach"}, {"D": "Freddie Mercury"}],
+    "correctAnswer": "Ludwig van Beethoven"
+  },
+  {
+    "question": "Aşağıdaki cümleyi hangi yazar söylemiştir?",
+    "questionDescription": "Okumak, düşünmenin güneşidir.",
+    "answer": [{"A": "Franz Kafka"}, {"B": "Victor Hugo"}, {"C": "William Shakespeare"}, {"D": "J.K. Rowling"}],
+    "correctAnswer": "Victor Hugo"
+  },
+  {
+    "question": "Bu cümle hangi filmden alıntıdır?",
+    "questionDescription": "Hayatın içine bak, orada her şey var.",
+    "answer": [{"A": "The Godfather"}, {"B": "Forrest Gump"}, {"C": "The Shawshank Redemption"}, {"D": "Titanic"}],
+    "correctAnswer": "Forrest Gump"
+  },
+  {
+    "question": "Bu cümlenin yazarı kimdir?",
+    "questionDescription": "Gelecek, bir kelebek kanadının çırpışında saklıdır.",
+    "answer": [{"A": "Albert Einstein"}, {"B": "Charles Darwin"}, {"C": "Stephen Hawking"}, {"D": "Ray Bradbury"}],
+    "correctAnswer": "Ray Bradbury"
+  },
+  {
+    "question": "Hangi müzisyen bu sözü söylemiştir?",
+    "questionDescription": "Müzik, ruhun gıdasıdır.",
+    "answer": [{"A": "Ludwig van Beethoven"}, {"B": "Wolfgang Amadeus Mozart"}, {"C": "Johann Sebastian Bach"}, {"D": "Freddie Mercury"}],
+    "correctAnswer": "Ludwig van Beethoven"
+  },
+  {
+    "question": "Bu cümlenin yazarı kimdir?",
+    "questionDescription": "Hayat, yaşamak için çok kısa, ama öğrenmek için çok uzundur.",
+    "answer": [{"A": "Seneca"}, {"B": "Benjamin Franklin"}, {"C": "Ralph Waldo Emerson"}, {"D": "Confucius"}],
+    "correctAnswer": "Seneca"
+  },
+  {
+    "question": "Bu cümle hangi kitaptan alıntıdır?",
+    "questionDescription": "Gökyüzündeki yıldızlar kadar sayısızdır sorunlarımız.",
+    "answer": [{"A": "Dönüşüm"}, {"B": "Karamazov Kardeşler"}, {"C": "Yüzüklerin Efendisi"}, {"D": "Savaş ve Barış"}],
+    "correctAnswer": "Yüzüklerin Efendisi"
+  },
+  {
+    "question": "Aşağıdaki cümleyi hangi ressam söylemiştir?",
+    "questionDescription": "Sanat, duygu ve düşüncenin buluşma noktasıdır.",
+    "answer": [{"A": "Pablo Picasso"}, {"B": "Leonardo da Vinci"}, {"C": "Vincent van Gogh"}, {"D": "Michelangelo"}],
+    "correctAnswer": "Vincent van Gogh"
+  },
+  {
+    "question": "Bu cümlenin yazarı kimdir?",
+    "questionDescription": "Gelecek, umudu olanların hayal ettiği bir yerdir.",
+    "answer": [{"A": "Albert Einstein"}, {"B": "Nelson Mandela"}, {"C": "Martin Luther King Jr."}, {"D": "Walt Disney"}],
+    "correctAnswer": "Walt Disney"
+  },
+  {
+    "question": "Bu cümle hangi filmden alıntıdır?",
+    "questionDescription": "Hayat bir kutu çikolata gibidir, ne çıkacağı hiç belli olmaz.",
+    "answer": [{"A": "The Godfather"}, {"B": "Forrest Gump"}, {"C": "The Shawshank Redemption"}, {"D": "Titanic"}],
+    "correctAnswer": "Forrest Gump"
+  },
+  {
+    "question": "Bu cümle hangi kitaptan alıntıdır?",
+    "questionDescription": "Bir kitabı bitirdiğinizde, başka bir insanın yaşadığı hayata tanıklık etmiş olursunuz.",
+    "answer": [{"A": "Sefiller"}, {"B": "Suç ve Ceza"}, {"C": "1984"}, {"D": "Dönüşüm"}],
+    "correctAnswer": "Sefiller"
+  },
+  {
+    "question": "Bu cümlenin yazarı kimdir?",
+    "questionDescription": "Sadece aptallar sabit fikirli olur, deha ise fikir değiştirir.",
+    "answer": [{"A": "Winston Churchill"}, {"B": "Albert Einstein"}, {"C": "Isaac Newton"}, {"D": "Leonardo da Vinci"}],
+    "correctAnswer": "Winston Churchill"
+  },
+  {
+    "question": "Hangi sanatçı bu sözü söylemiştir?",
+    "questionDescription": "Sanat, ruhun aynasıdır.",
+    "answer": [{"A": "Pablo Picasso"}, {"B": "Vincent van Gogh"}, {"C": "Leonardo da Vinci"}, {"D": "Michelangelo"}],
+    "correctAnswer": "Pablo Picasso"
+  },
+  {
+    "question": "Bu cümle hangi filmden alıntıdır?",
+    "questionDescription": "Her şeyin sonunda, ölüm bile bir başlangıçtır.",
+    "answer": [{"A": "The Godfather"}, {"B": "Forrest Gump"}, {"C": "The Shawshank Redemption"}, {"D": "Titanic"}],
+    "correctAnswer": "The Shawshank Redemption"
+  },
+  {
+    "question": "Bu cümle hangi kitaptan alıntıdır?",
+    "questionDescription": "Kara düşler en güçlü savaşçılardır.",
+    "answer": [{"A": "Savaş ve Barış"}, {"B": "1984"}, {"C": "Karamazov Kardeşler"}, {"D": "Yüzüklerin Efendisi"}],
+    "correctAnswer": "Yüzüklerin Efendisi"
+  },
+  {
+    "question": "Bu cümlenin yazarı kimdir?",
+    "questionDescription": "Gelecek, kendini bugünden daha iyi bir hale getirebilmek için en güzel zamanıdır.",
+    "answer": [{"A": "Ralph Waldo Emerson"}, {"B": "Charles Darwin"}, {"C": "Albert Einstein"}, {"D": "Stephen Hawking"}],
+    "correctAnswer": "Ralph Waldo Emerson"
+  },
+  {
+    "question": "Bu cümle hangi kitaptan alıntıdır?",
+    "questionDescription": "Bir insanın yüz ifadesinden, iç dünyasının sırlarını çözebilirsiniz.",
+    "answer": [{"A": "Suç ve Ceza"}, {"B": "Sefiller"}, {"C": "Dönüşüm"}, {"D": "1984"}],
+    "correctAnswer": "Suç ve Ceza"
+  },
+  {
+    "question": "Aşağıdaki cümle hangi bilim insanına aittir?",
+    "questionDescription": "Bilgi güçtür.",
+    "answer": [{"A": "Francis Bacon"}, {"B": "Isaac Newton"}, {"C": "Galileo Galilei"}, {"D": "Albert Einstein"}],
+    "correctAnswer": "Francis Bacon"
+  },
+  {
+    "question": "Hangi müzisyen bu sözü söylemiştir?",
+    "questionDescription": "Müzik, insanların kalplerine giden kısa bir yolculuktur.",
+    "answer": [{"A": "Johann Sebastian Bach"}, {"B": "Wolfgang Amadeus Mozart"}, {"C": "Ludwig van Beethoven"}, {"D": "Freddie Mercury"}],
+    "correctAnswer": "Freddie Mercury"
+  },
+  {
+    "question": "Bu cümle hangi filmden alıntıdır?",
+    "questionDescription": "Yağmur, insanları ıslatan bir şey değil, hayatı yaşıyan bir şeydir.",
+    "answer": [{"A": "The Godfather"}, {"B": "Forrest Gump"}, {"C": "The Shawshank Redemption"}, {"D": "Blade Runner"}],
+    "correctAnswer": "Blade Runner"
+  }
+]
