@@ -2,83 +2,83 @@
   {
     "question": "Yukarıdaki cümleyi hangi ünlü söylemiştir?",
     "questionDescription": "Müzik ruhun gıdasıdır.",
-    "answer": [{"A": "Ludwig van Beethoven"}, {"B": "Wolfgang Amadeus Mozart"}, {"C": "Johann Sebastian Bach"}, {"D": "Freddie Mercury"}],
+    "answer": [{"A": "Ludwig van Beethoven","check":false}, {"B": "Wolfgang Amadeus Mozart","check":false}, {"C": "Johann Sebastian Bach","check":false}, {"D": "Freddie Mercury","check":false}],
     "correctAnswer": [{"answerTitle":"A","answerValue":"Ludwig van Beethoven"}]
   },
   {
     "question": "Aşağıdaki cümleyi hangi yazar söylemiştir?",
     "questionDescription": "Okumak, düşünmenin güneşidir.",
-    "answer": [{"A": "Franz Kafka"}, {"B": "Victor Hugo"}, {"C": "William Shakespeare"}, {"D": "J.K. Rowling"}],
+    "answer": [{"A": "Franz Kafka","check":false}, {"B": "Victor Hugo","check":false}, {"C": "William Shakespeare","check":false}, {"D": "J.K. Rowling","check":false}],
         "correctAnswer": [{"answerTitle":"B","answerValue":"Victor Hugo"}]
 
   },
   {
     "question": "Bu cümle hangi filmden alıntıdır?",
     "questionDescription": "Hayatın içine bak, orada her şey var.",
-    "answer": [{"A": "The Godfather"}, {"B": "Forrest Gump"}, {"C": "The Shawshank Redemption"}, {"D": "Titanic"}],
+    "answer": [{"A": "The Godfather","check":false}, {"B": "Forrest Gump","check":false}, {"C": "The Shawshank Redemption","check":false}, {"D": "Titanic","check":false}],
             "correctAnswer": [{"answerTitle":"B","answerValue":"Forrest Gump"}]
 
   },
   {
     "question": "Bu cümlenin yazarı kimdir?",
     "questionDescription": "Gelecek, bir kelebek kanadının çırpışında saklıdır.",
-    "answer": [{"A": "Albert Einstein"}, {"B": "Charles Darwin"}, {"C": "Stephen Hawking"}, {"D": "Ray Bradbury"}],
+    "answer": [{"A": "Albert Einstein","check":false}, {"B": "Charles Darwin","check":false}, {"C": "Stephen Hawking","check":false}, {"D": "Ray Bradbury","check":false}],
                 "correctAnswer": [{"answerTitle":"D","answerValue":"Ray Bradbury"}]
 
   },
   {
     "question": "Hangi müzisyen bu sözü söylemiştir?",
     "questionDescription": "Müzik, ruhun gıdasıdır.",
-    "answer": [{"A": "Ludwig van Beethoven"}, {"B": "Wolfgang Amadeus Mozart"}, {"C": "Johann Sebastian Bach"}, {"D": "Freddie Mercury"}],
+    "answer": [{"A": "Ludwig van Beethoven","check":false}, {"B": "Wolfgang Amadeus Mozart","check":false}, {"C": "Johann Sebastian Bach","check":false}, {"D": "Freddie Mercury","check":false}],
                     "correctAnswer": [{"answerTitle":"D","answerValue":"Ludwig van Beethoven"}]
 
   },
   {
     "question": "Bu cümlenin yazarı kimdir?",
     "questionDescription": "Hayat, yaşamak için çok kısa, ama öğrenmek için çok uzundur.",
-    "answer": [{"A": "Seneca"}, {"B": "Benjamin Franklin"}, {"C": "Ralph Waldo Emerson"}, {"D": "Confucius"}],
+    "answer": [{"A": "Seneca","check":false}, {"B": "Benjamin Franklin","check":false}, {"C": "Ralph Waldo Emerson","check":false}, {"D": "Confucius","check":false}],
                         "correctAnswer": [{"answerTitle":"A","answerValue":"Seneca"}]
 
   },
   {
     "question": "Bu cümle hangi kitaptan alıntıdır?",
     "questionDescription": "Gökyüzündeki yıldızlar kadar sayısızdır sorunlarımız.",
-    "answer": [{"A": "Dönüşüm"}, {"B": "Karamazov Kardeşler"}, {"C": "Yüzüklerin Efendisi"}, {"D": "Savaş ve Barış"}],
+    "answer": [{"A": "Dönüşüm","check":false}, {"B": "Karamazov Kardeşler","check":false}, {"C": "Yüzüklerin Efendisi","check":false}, {"D": "Savaş ve Barış","check":false}],
                             "correctAnswer": [{"answerTitle":"C","answerValue":"Yüzüklerin Efendisi"}]
 
   },
   {
     "question": "Aşağıdaki cümleyi hangi ressam söylemiştir?",
     "questionDescription": "Sanat, duygu ve düşüncenin buluşma noktasıdır.",
-    "answer": [{"A": "Pablo Picasso"}, {"B": "Leonardo da Vinci"}, {"C": "Vincent van Gogh"}, {"D": "Michelangelo"}],
+    "answer": [{"A": "Pablo Picasso","check":false}, {"B": "Leonardo da Vinci","check":false}, {"C": "Vincent van Gogh","check":false}, {"D": "Michelangelo","check":false}],
                                 "correctAnswer": [{"answerTitle":"C","answerValue":"Vincent van Gogh"}]
 
   },
   {
     "question": "Bu cümlenin yazarı kimdir?",
     "questionDescription": "Gelecek, umudu olanların hayal ettiği bir yerdir.",
-    "answer": [{"A": "Albert Einstein"}, {"B": "Nelson Mandela"}, {"C": "Martin Luther King Jr."}, {"D": "Walt Disney"}],
+    "answer": [{"A": "Albert Einstein","check":false}, {"B": "Nelson Mandela","check":false}, {"C": "Martin Luther King Jr.","check":false}, {"D": "Walt Disney","check":false}],
                                     "correctAnswer": [{"answerTitle":"D","answerValue":"Walt Disney"}]
 
   },
   {
     "question": "Bu cümle hangi filmden alıntıdır?",
     "questionDescription": "Hayat bir kutu çikolata gibidir, ne çıkacağı hiç belli olmaz.",
-    "answer": [{"A": "The Godfather"}, {"B": "Forrest Gump"}, {"C": "The Shawshank Redemption"}, {"D": "Titanic"}],
+    "answer": [{"A": "The Godfather","check":false}, {"B": "Forrest Gump","check":false}, {"C": "The Shawshank Redemption","check":false}, {"D": "Titanic","check":false}],
                                         "correctAnswer": [{"answerTitle":"B","answerValue":"Forrest Gump"}]
 
   },
   {
     "question": "Bu cümle hangi kitaptan alıntıdır?",
     "questionDescription": "Bir kitabı bitirdiğinizde, başka bir insanın yaşadığı hayata tanıklık etmiş olursunuz.",
-    "answer": [{"A": "Sefiller"}, {"B": "Suç ve Ceza"}, {"C": "1984"}, {"D": "Dönüşüm"}],
+    "answer": [{"A": "Sefiller","check":false}, {"B": "Suç ve Ceza","check":false}, {"C": "1984","check":false}, {"D": "Dönüşüm","check":false}],
                                             "correctAnswer": [{"answerTitle":"A","answerValue":"Sefiller"}]
 
   },
   {
     "question": "Bu cümlenin yazarı kimdir?",
     "questionDescription": "Sadece aptallar sabit fikirli olur, deha ise fikir değiştirir.",
-    "answer": [{"A": "Winston Churchill"}, {"B": "Albert Einstein"}, {"C": "Isaac Newton"}, {"D": "Leonardo da Vinci"}],
+    "answer": [{"A": "Winston Churchill","check":false}, {"B": "Albert Einstein","check":false}, {"C": "Isaac Newton","check":false}, {"D": "Leonardo da Vinci","check":false}],
 
                                                 "correctAnswer": [{"answerTitle":"A","answerValue":"Winston Churchill"}]
 
@@ -86,28 +86,28 @@
   {
     "question": "Hangi sanatçı bu sözü söylemiştir?",
     "questionDescription": "Sanat, ruhun aynasıdır.",
-    "answer": [{"A": "Pablo Picasso"}, {"B": "Vincent van Gogh"}, {"C": "Leonardo da Vinci"}, {"D": "Michelangelo"}],
+    "answer": [{"A": "Pablo Picasso","check":false}, {"B": "Vincent van Gogh","check":false}, {"C": "Leonardo da Vinci","check":false}, {"D": "Michelangelo","check":false}],
                                                     "correctAnswer": [{"answerTitle":"A","answerValue":"Pablo Picasso"}]
 
   },
   {
     "question": "Bu cümle hangi filmden alıntıdır?",
     "questionDescription": "Her şeyin sonunda, ölüm bile bir başlangıçtır.",
-    "answer": [{"A": "The Godfather"}, {"B": "Forrest Gump"}, {"C": "The Shawshank Redemption"}, {"D": "Titanic"}],
+    "answer": [{"A": "The Godfather","check":false}, {"B": "Forrest Gump","check":false}, {"C": "The Shawshank Redemption","check":false}, {"D": "Titanic","check":false}],
                                                         "correctAnswer": [{"answerTitle":"C","answerValue":"The Shawshank Redemption"}]
 
   },
   {
     "question": "Bu cümle hangi kitaptan alıntıdır?",
     "questionDescription": "Kara düşler en güçlü savaşçılardır.",
-    "answer": [{"A": "Savaş ve Barış"}, {"B": "1984"}, {"C": "Karamazov Kardeşler"}, {"D": "Yüzüklerin Efendisi"}],
+    "answer": [{"A": "Savaş ve Barış","check":false}, {"B": "1984","check":false}, {"C": "Karamazov Kardeşler","check":false}, {"D": "Yüzüklerin Efendisi","check":false}],
                                                             "correctAnswer": [{"answerTitle":"D","answerValue":"Yüzüklerin Efendisi"}]
 
   },
   {
     "question": "Bu cümlenin yazarı kimdir?",
     "questionDescription": "Gelecek, kendini bugünden daha iyi bir hale getirebilmek için en güzel zamanıdır.",
-    "answer": [{"A": "Ralph Waldo Emerson"}, {"B": "Charles Darwin"}, {"C": "Albert Einstein"}, {"D": "Stephen Hawking"}],
+    "answer": [{"A": "Ralph Waldo Emerson","check":false}, {"B": "Charles Darwin","check":false}, {"C": "Albert Einstein","check":false}, {"D": "Stephen Hawking","check":false}],
                                                                 "correctAnswer": [{"answerTitle":"A","answerValue":"Ralph Waldo Emerson"}]
 
   }
